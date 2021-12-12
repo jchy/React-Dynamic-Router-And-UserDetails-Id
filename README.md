@@ -1,2 +1,2 @@
-# React-Dynamic-Router-And-UserDetails-Id
+# react-router-with-fetch-api-with-reqres
 Created with CodeSandbox
